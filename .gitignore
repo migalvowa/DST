@@ -1,0 +1,6 @@
+# add to ignore folder node_modules/
+node_modules/
+# add to ignore file .DS_Store
+*.DS_Store
+# add to ignore file package-lock.json
+package-lock.json
